@@ -1,3 +1,6 @@
+> [!NOTE]
+> The Freedesktop SDK extension for Swift 5 is now maintained [here](https://github.com/flathub/org.freedesktop.Sdk.Extension.swift5).
+
 # SDK Extension for Swift
 
 This extension adds Swift support to Flatpak.
